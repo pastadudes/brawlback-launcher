@@ -34,8 +34,8 @@ const getThemeOptions = (mode: PaletteMode) => ({
           },
           divider: "#FFFFFF",
           background: {
-            default: "#414242",
-            paper: "#595A5A",
+            default: "#212226",
+            paper: "#1d1d1d",
           },
         }),
   },
